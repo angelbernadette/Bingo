@@ -31,7 +31,7 @@ function newNumber(maxNumber) {
         console.log(`New number ${x} is invalid.`);
    }
 
-   if (B == true && I == true) {
+   if (B == true && I == true && N == true && G == true && O == true) {
     console.log(`BINGOOO!!!`);
 
    }
